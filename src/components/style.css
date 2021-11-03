@@ -1,0 +1,31 @@
+.botao {
+  height: 35px;
+  width: 150px;
+  border: 4px groove gold;
+  border-left: 2px solid gold;
+  border-radius: 8px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background: #efc365;
+  color: black;
+  cursor: pointer;
+}
+.botao:hover {
+  filter: brightness(0.9);
+}
+
+#exit {
+  border: 4px groove gold;
+  border-radius: 8px;
+  font-size: large;
+}
+
+#input {
+  height: 25px;
+  border: 4px groove gold;
+  border-right: none;
+  border-radius: 8px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  background: #f1db73;
+}
